@@ -5,6 +5,8 @@
 **/build
 # Prerequisites
 *.d
+data
+**/*.bin
 
 # Compiled Object files
 *.slo
